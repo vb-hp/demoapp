@@ -9,15 +9,15 @@ public class GodClass {
         boolean d = true;
         boolean e = true;
 
-        if (a == true) {
+        if (a) {
             return true;
-        } else if (b == true) {
+        } else if (b) {
             return true;
-        } else if (c == true) {
+        } else if (c) {
             return true;
-        } else if (d == true) {
+        } else if (d) {
             return true;
-        } else if (e == true) {
+        } else if (e) {
             return true;
         } else {
             return false;
